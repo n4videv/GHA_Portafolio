@@ -18,12 +18,12 @@ function Footer() {
         </a>
       </h1>
       <div className="social-links">
-        <a href="https://www.instagram.com/_germanhuaytalla/"
+        <a href=""
            target={"blank"}
           >
           <BsInstagram className="social" />
         </a>
-        <a href="https://www.facebook.com/groups/177151769719998"
+        <a href=""
            target={"blank"}
         >
           {" "}
@@ -34,13 +34,13 @@ function Footer() {
           <TiSocialDribbble className="social" />
         </a>
 
-        <a href="https://www.youtube.com/channel/UCG3yrlp0Z-_35aBYfHgb6Xg"
+        <a href=""
            target={"blank"}
           >
           <TiSocialYoutube className="social" />
         </a>
 
-        <a href="https://github.com/ivanhuaytalla"
+        <a href=""
            target={"blank"}>
           <TiSocialGithub className="social" />
         </a>
